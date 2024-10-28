@@ -13,7 +13,7 @@
 </head>
 <body>
     <?php
-        session_start();lamsualoi
+        session_start();lamsualoi;
         include 'tieude.php';
     ?>
     <div id="content">
